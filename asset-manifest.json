@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "./static/js/main.12aebdb4.js",
+    "static/media/Café1.jpg": "./static/media/Café1.5243c03455715d669abd.jpg",
+    "static/media/Café2.jpg": "./static/media/Café2.6677424ad9c660476a80.jpg",
+    "static/media/Sorvete.jpg": "./static/media/Sorvete.40ecc72a6734478229e7.jpg",
+    "static/media/1.jpg": "./static/media/1.9d6e9701d69ab2ef0ce3.jpg",
+    "static/media/6.jpg": "./static/media/6.06f9a4465304e08004e5.jpg",
+    "static/media/3.jpg": "./static/media/3.9164bf3508464ce5e412.jpg",
+    "static/media/2.jpg": "./static/media/2.2ead0c1b3006994d70d2.jpg",
+    "static/media/5.jpg": "./static/media/5.43410fbea5de754a5d34.jpg",
+    "static/media/4.jpg": "./static/media/4.a48637a90bd36881b0e5.jpg",
+    "static/media/Home.jpg": "./static/media/Home.6cc68c4124e776f1daa1.jpg",
+    "static/media/Form.jpg": "./static/media/Form.08e26d7a8d7443996705.jpg",
+    "static/media/Expecial.jpg": "./static/media/Expecial.e7c2c41d9e5766fcd325.jpg",
+    "index.html": "./index.html",
+    "main.12aebdb4.js.map": "./static/js/main.12aebdb4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.12aebdb4.js"
+  ]
+}
